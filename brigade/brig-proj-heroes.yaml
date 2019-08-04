@@ -1,0 +1,11 @@
+project: "adiazcan/blackbelt-aks-hackfest"
+repository: "https://github.com/adiazcan/blackbelt-aks-hackfest"
+cloneURL: "https://github.com/adiazcan/blackbelt-aks-hackfest.git"
+sharedSecret: "create-something-super-secret"
+github:
+  token: "fd2da12fcff0dd9f355b1366a0276f451411c9b8"
+secrets:
+  acrServer: acrws.azurecr.io
+  acrUsername: acrws
+  acrPassword: "/vJF4y=bsaSNYWdFezUFxBwRSkvCQ84w"
+vcsSidecar: "deis/git-sidecar:v0.11.0"
