@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        ENCAMINA Team from Brigade
+        ENCAMINA Team from Brigade KK
       </div>
       <div class="col-lg-6">
       </div>
